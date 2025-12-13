@@ -2,7 +2,7 @@
 
 An **Android application** built using **Kotlin** and **Jetpack Compose** that consumes a **FastAPI backend** to provide a modern, responsive Sweet Shop experience.
 
-This app follows **MVVM architecture**, uses **Retrofit for networking**, **StateFlow for state management**, and **Material 3 UI** to deliver a clean and scalable mobile application.
+This app follows **MVVM architecture**, uses **Retrofit for networking**, **StateFlow for state management**, and **Material 3 UI** to deliver a clean and scalable mobile application, and backend is in **main** Branch.
 
 ---
 
